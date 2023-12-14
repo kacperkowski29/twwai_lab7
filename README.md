@@ -1,0 +1,1 @@
+Zadania z laboratorium 7 na TWWAI
