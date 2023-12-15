@@ -15,7 +15,7 @@ class IndexController implements Controller {
     }
 
     private serveIndex = async (request: Request, response: Response) => {
-        response.sendFile(path.join(__dirname, '/../../../', 'TWWAI23-24/lib/public/index.html'));
+        response.sendFile(path.join(__dirname, '/../../../', 'twwai_lab7/lib/public/index.html'));
     }
 }
 
